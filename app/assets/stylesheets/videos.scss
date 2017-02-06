@@ -1,0 +1,33 @@
+// Place all the styles related to the Videos controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.mejs-captions-position{
+	z-index: 9999;
+}
+
+.single-translation{
+	left: -1000px;
+	position: absolute;
+	display: block;
+	border: 1px #fafafa solid;
+	padding: 20px 10px;
+	max-width: 300px;
+	content: none;
+	background-color: #0c0c0c;
+	color: #fcfcfc;
+	z-index: 2147483647;
+
+	.word-type{
+		display: inline;
+		color: #fd8;
+	}
+}
+.single-translation .word-original{
+	color: orange;
+}
+video.videocontent {
+	width:80%;
+	max-width: 640px;
+	margin: 0 auto;
+}

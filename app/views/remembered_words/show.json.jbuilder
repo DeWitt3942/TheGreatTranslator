@@ -1,0 +1,1 @@
+json.partial! "remembered_words/remembered_word", remembered_word: @remembered_word

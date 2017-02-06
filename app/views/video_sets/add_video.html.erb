@@ -1,0 +1,36 @@
+		<div class="col-lg-6 col-lg-offset-3 centered">
+		
+<h3>Lets add a videos to <%= @video_set.name %> </h3>
+<hr>
+<p>Unset videos: </p>
+<%= form_tag "/watch/"+@video_set.id.to_s+"/add" %>
+<!-- <form action="" method="POST"> -->
+<table cellspacing="20" class="videos-list">
+<% @videos.each do |video|%>
+	<tr>
+		<td><img class="img-responsive" src="<%=video.image.url(:thumb) %>" alt="" /></a></td>
+		<td><strong><%= video.title %></strong></td>
+		<td>
+	<input type="checkbox" name="video[<%=video[:id]%>]" class="set-video" ></td>
+	</tr>
+<% end %>
+
+
+
+</table>
+<% if @videos.length > 0 %>
+<input class="btn btn-success" type="submit" value="Sign to the video set" >
+<% else %>
+	<p>No videos uploaded :(</p>
+<% end%>
+</form>
+<hr>
+<h4>Or just upload a new one?</h4>
+<a class="btn btn-success nocolor" type="submit" href="<%= new_video_path %>" >Upload new video</a>
+</div>
+
+<script type="text/javascript">
+	$(".set-video").click(function(){
+		$(this).parent().parent().toggleClass("set");
+	});
+</script>

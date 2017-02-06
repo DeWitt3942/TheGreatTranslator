@@ -1,0 +1,19 @@
+// Place all the styles related to the VideoSets controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.videos-list {
+	tr.set{
+		background-color: #1abc9c;
+		transition: 0.3s;
+	}
+	tr{
+		margin: 5px;
+	}
+	td{
+		padding: 20px;
+
+	}
+	margin-bottom: 50px;
+}

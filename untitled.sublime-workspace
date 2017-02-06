@@ -1,0 +1,1281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"new_path"
+			],
+			[
+				"upda",
+				"update_subtitles"
+			],
+			[
+				"count",
+				"countPreferableCreatures"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"hide",
+				"hide_translation"
+			],
+			[
+				"recomen",
+				"recomended_translation\t(sandbox.rb)"
+			],
+			[
+				"recome",
+				"recomended_translation"
+			],
+			[
+				"trans",
+				"translation"
+			],
+			[
+				"tran",
+				"translated_words"
+			],
+			[
+				"transla",
+				"translations"
+			],
+			[
+				"tr",
+				"translation"
+			],
+			[
+				"transl",
+				"translations\t(word.rb)"
+			],
+			[
+				"subs",
+				"subs_url"
+			],
+			[
+				"has",
+				"has_attached_file"
+			],
+			[
+				"this",
+				"this_type"
+			],
+			[
+				"typ",
+				"type_cnt"
+			],
+			[
+				"translate",
+				"translate_url"
+			],
+			[
+				"elem",
+				"element_str"
+			],
+			[
+				"id",
+				"user_id"
+			],
+			[
+				"rememb",
+				"remember_token"
+			],
+			[
+				"authent",
+				"authenticated\t(sessions_helper.rb)"
+			],
+			[
+				"authen",
+				"authenticated\t(user.rb)"
+			],
+			[
+				"remem",
+				"remember_token\t(user.rb)"
+			],
+			[
+				"rembme",
+				"remember_token"
+			],
+			[
+				"VALID_",
+				"VALID_NICKNAME_REGEX"
+			],
+			[
+				"case",
+				"case_sensitive"
+			],
+			[
+				"uni",
+				"uniqueness"
+			],
+			[
+				"fin",
+				"find_connections"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"ind",
+				"indecies"
+			],
+			[
+				"Inde",
+				"Index2"
+			],
+			[
+				"find",
+				"find_way"
+			],
+			[
+				"connec",
+				"connected"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/videos_controller.rb",
+			"settings":
+			{
+				"buffer_size": 3043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/video.rb",
+			"settings":
+			{
+				"buffer_size": 1690,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/videos/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 548,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/videos/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 884,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/videos/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 2104,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssswip",
+				"Set Syntax: SWI-Prolog"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"pcremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"sspytho",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ssrub",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pc",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pcremove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pcremov",
+				"Package Control: Remove Repository"
+			],
+			[
+				"pcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcinsta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pcad",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pcinstal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"Select Skin"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"ssprol",
+				"Set Syntax: SWI-Prolog"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 556.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/config",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/images",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/javascripts",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/javascripts/channels",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/stylesheets",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/helpers",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/models",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/videos",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/words",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/db",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/db/migrate",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/lib",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/lib/assets",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/lib/tasks",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs/000",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs/000/000",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs/000/000/001",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs/000/000/001/original",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/vendor",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/vendor/assets",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/vendor/assets/javascripts"
+	],
+	"file_history":
+	[
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/sandbox.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/controllers/videos_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/videos/show.html.erb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/videos/show.json.jbuilder",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/videos/_player.html.erb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/tmp/cache/assets/sprockets/v3.0/p3/p3JF3I1EuMKoKvnw7ZovLbH_n1_xMKaPHSlXWgbgkQ4.cache",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/javascripts/player.js",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/javascripts/application.js",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/javascripts/videos.coffee",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/stylesheets/videos.scss",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/Gemfile",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/assets/stylesheets/application.css",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/trash/l.srt",
+		"/var/www/html/info.php",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/trash/l.vtt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/trash/test.vtt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/videos/_form.html.erb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs/000/000/001/original/_DownSub.com__Robin_Williams_-_Seize_the_Day_-_by_Melodysheep.srt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/trash/test.vtt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/public/system/videos/subs/000/000/001/original/l.vtt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/config/environments/production.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/config/initializers/assets.rb",
+		"/home/dewitt/Desktop/Prolog/module.pl",
+		"/home/dewitt/Desktop/Prolog/main.pl",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/config/puma.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/words/index.html.erb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/config/routes.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/words/show.html.erb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/views/videos/edit.html.erb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/db/migrate/20161208222451_add_recomended_word_to_words.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/controllers/words_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/models/word.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/app/models/video.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/Gemfile.lock",
+		"/home/dewitt/Downloads/Lucifer - 1x08 - Et Tu  Doctor .HDTV.LOL.en.srt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/sandbox.html",
+		"/media/dewitt/elementary/книга розмарія/Наталія Петій Потапчук",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/db/migrate/20161207230247_add_index_to_word.rb",
+		"/home/dewitt/Downloads/[DownSub.com] Robin Williams - Seize the Day - by Melodysheep.srt",
+		"/home/dewitt/Downloads/Lucifer - 1x09 - A Priest Walks Into a Bar.HDTV.x264-LOL.en.srt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/db/migrate/20161207205631_add_attachment_sub_to_videos.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2 (copy)/app/controllers/users_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/1.txt",
+		"/home/dewitt/Desktop/rails_projects/TheGreatTranslator/3.txt",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2 (copy)/app/models/user.rb",
+		"/home/dewitt/Desktop/ororo/js/player.js",
+		"/home/dewitt/Desktop/ororo/file.srt",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/assets/stylesheets/common.css",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/comments/index.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/users/_form.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/users/edit.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/controllers/users_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/models/post.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/models/user.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/show.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/_preview.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/controllers/posts_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/comments/_custom_form.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/users/new.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/assets/stylesheets/custom.scss",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/index.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/helpers/users_helper.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/assets/stylesheets/style5.css",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/users/show.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/layouts/_footer.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/_comment.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/users/index.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/add_comment.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/layouts/application.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/controllers/comments_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/config/routes.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/test/models/comment_test.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/test/controllers/comments_controller_test.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/public/css/common.css",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/controllers/sessions_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/controllers/application_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/layouts/_header.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/assets/javascripts/application.js",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/helpers/sessions_helper.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/_form.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/shared/_error_messages.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/sessions/new.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/test/controllers/sessions_controller_test.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/comments/new.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/helpers/posts_helper.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/Gemfile",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/helpers/application_helper.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/new.html.erb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/models/comment.rb",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/db/migrate/20161114073909_add_rating_to_users.rb",
+		"/home/dewitt/Desktop/web/single.html",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/posts/_posts_activity.html.erb",
+		"/home/dewitt/Desktop/web/index.html",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/app/views/static_pages/home.html.erb",
+		"/home/dewitt/Desktop/web/portfolio.html",
+		"/home/dewitt/Desktop/web/login.html",
+		"/home/dewitt/Desktop/rails_projects/ModuleProject2/.git/COMMIT_EDITMSG",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/config/routes.rb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/dewitt/Desktop/rails_projects/sample_app/Gemfile",
+		"/home/dewitt/Desktop/rails_projects/sample_app/README.md",
+		"/home/dewitt/Desktop/rails_projects/ThirdOne/config/routes.rb",
+		"/home/dewitt/Desktop/Prolog/first.pl",
+		"/home/dewitt/Desktop/Prolog/second.pl"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"paperc",
+			"translat",
+			"recom",
+			"recomm",
+			"recomme",
+			"minute",
+			"str",
+			"stroke",
+			"tbody",
+			"set_wo",
+			".new-post",
+			"new-post",
+			"ch-img",
+			"post",
+			"9.jpg",
+			"ch-",
+			"authenrificated?",
+			"%></",
+			"errors",
+			"../",
+			".posts",
+			"images",
+			"jpg",
+			"posts/form",
+			"form",
+			"portfolio",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"user-view"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/videos_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								753,
+								753
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/video.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/videos/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/videos/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/stylesheets/application.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/videos/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"applicationsc",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"aaplica",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"inde",
+				"app/views/videos/index.html.erb"
+			],
+			[
+				"videoscon",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"modelvi",
+				"app/models/video.rb"
+			],
+			[
+				"videos",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"videocon",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"video.css",
+				"app/assets/stylesheets/videos.scss"
+			],
+			[
+				"show",
+				"app/views/videos/show.html.erb"
+			],
+			[
+				"applica",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"applicationjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"applicat",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"appli1",
+				"tmp/cache/assets/sprockets/v3.0/p3/p3JF3I1EuMKoKvnw7ZovLbH_n1_xMKaPHSlXWgbgkQ4.cache"
+			],
+			[
+				"videos_",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"videos_c",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"video_co",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"aaplicationcss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"ass",
+				"config/initializers/assets.rb"
+			],
+			[
+				"pr",
+				"config/environments/production.rb"
+			],
+			[
+				"sho",
+				"app/views/videos/show.html.erb"
+			],
+			[
+				"word",
+				"app/models/word.rb"
+			],
+			[
+				"wordscon",
+				"app/controllers/words_controller.rb"
+			],
+			[
+				"words",
+				"app/controllers/words_controller.rb"
+			],
+			[
+				"sand",
+				"sandbox.rb"
+			],
+			[
+				"wordcon",
+				"app/controllers/words_controller.rb"
+			],
+			[
+				"modelword",
+				"app/models/word.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"application",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"wordco",
+				"app/controllers/words_controller.rb"
+			],
+			[
+				"videco",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"video",
+				"app/models/video.rb"
+			],
+			[
+				"form",
+				"app/views/videos/_form.html.erb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"controlle",
+				"app/controllers/words_controller.rb"
+			],
+			[
+				"sandbox.html",
+				"sandbox.html"
+			],
+			[
+				"controll",
+				"app/controllers/words_controller.rb"
+			],
+			[
+				"modelwo",
+				"app/models/word.rb"
+			],
+			[
+				"post",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"postnew",
+				"app/views/posts/new.html.erb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"modelpost",
+				"app/models/post.rb"
+			],
+			[
+				"user_c",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"post_c",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"modelus",
+				"app/models/user.rb"
+			],
+			[
+				"user_con",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"modelpos",
+				"app/models/post.rb"
+			],
+			[
+				"post_con",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"posts_co",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"cuss",
+				"app/assets/stylesheets/custom.scss"
+			],
+			[
+				"previ",
+				"app/views/posts/_preview.html.erb"
+			],
+			[
+				"userhelp",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"postco",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"comemnt",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"comment_test",
+				"test/models/comment_test.rb"
+			],
+			[
+				"commenets",
+				"test/controllers/comments_controller_test.rb"
+			],
+			[
+				"view.html",
+				"app/views/posts/show.html.erb"
+			],
+			[
+				"commentcontr",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"model",
+				"app/models/user.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"common.css",
+				"public/css/common.css"
+			],
+			[
+				"posts",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"session",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessio",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessions",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessionsco",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"postscon",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"user",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"postcon",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"helperus",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"sesions",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessionshel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sessionshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"_ero",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"migration",
+				"db/migrate/20161114073909_add_rating_to_users.rb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"pos",
+				"app/models/post.rb"
+			],
+			[
+				"users_co",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"staticpagestest",
+				"test/controllers/static_pages_controller_test.rb"
+			],
+			[
+				"static_",
+				"test/controllers/static_pages_controller_test.rb"
+			],
+			[
+				"applicationhe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"applicatio",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"application_",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"index.h",
+				"app/views/users/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

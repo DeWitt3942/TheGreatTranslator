@@ -1,0 +1,32 @@
+
+<p id="notice" class="centrate"><%= notice %></p>
+
+
+<% 
+def setWidth(n)
+	return 'col-lg-'+(12/n).to_s
+end
+%>
+
+<% n = @video_sets.length %>
+<% for i  in  0..n/3  %>
+  <div class="row mt centered"> 
+    <% for j in 1..[3, n - i*3].min 
+       video_set = @video_sets[i*3+j-1] %>
+
+        <div class="<%= setWidth [3, n - i*3].min  %> ">
+          <a class="zoom green" href="<%= url_for video_set %> "><img class="" src="<%=video_set.image.url(:medium) %>" alt="" /></a>
+          <p><%= video_set.name %></p>
+        </div>
+    
+     <% end %>
+  </div> 
+<% end %>
+<% if n==0 %>
+  <h3> No video sets yet ;(</h3>
+<% end %>
+
+<br>
+<% if admin? %>
+<%= link_to 'New Video Set', new_video_set_path %>
+<% end %>

@@ -1,0 +1,1 @@
+json.partial! "video_sets/video_set", video_set: @video_set

@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+<h2 class="centered"><%= @video_set.name %></h2>
+<hr> 
+<% n = @videos.length %>
+<% if n==0 %>
+  <h4 class="centrate"> No videos yet ;(</h4>
+  <br>
+<% end %>
+<% for i  in  0..n/3  %>
+  <div class="row mt centered"> 
+    <% for j in 1..[3, n - i*3].min 
+       video = @videos[i*3+j-1] %>
+
+        <div class="<%=setWidth([3, n - i*3].min)%>">
+          <a href="<%= url_for video %> "><img class="" src="<%=video.image.url(:medium) %>" alt="" /></a>
+          <p><%= video.title %> <%= rating_for video, "quality", enable_half: true %></p>
+
+        </div>
+    
+     <% end %>
+  </div> 
+<% end %>
+
+<div class="col-lg-6 col-lg-offset-3 centered">
+<% if admin? %>
+		<p><a href="/watch/<%=@video_set.id%>/add" class="nocolor btn btn-info">Add video to current videoset</a>
+  </p>
+     <a href="/video_sets/<%=@video_set.id%>/edit">Edit videoset</a>
+<% end %>
+</div>
+
+

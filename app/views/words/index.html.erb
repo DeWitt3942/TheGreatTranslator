@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Words</h1>
+<%= will_paginate @posts %>
+<div class="table-rensponsive">
+<table class="table table-stripped">
+  <thead>
+    <tr>
+      <th>Word</th>
+      <th>Translation</th>
+      <th>Translations</th>
+      <% if !current_user.nil?%>
+  <% if current_user.admin? %>
+      <th colspan="2"></th>
+      <% end end %>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @words.each do |word| %>
+      <tr>
+        <td><%= word.word %></td>
+        <td><%= word.recomended_translation %></td>
+        <td><%= word.translations %></td>
+        
+        <% if !current_user.nil?%>
+  <% if current_user.admin? %>
+        <td><%= link_to 'Edit', edit_word_path(word) %></td>
+        <td><%= link_to 'Destroy', word, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <% end end %>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+</div>
+<br>
+
+
+<%= link_to 'New Word', new_word_path %>

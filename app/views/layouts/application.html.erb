@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Watch Originals!</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+ <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?136"></script>
+
+<!-- Put this script tag to the <head> of your page -->
+
+<script type="text/javascript">
+  VK.init({apiId: 5818981, onlyWidgets: true});
+</script>
+
+  </head>
+
+  <body>
+    <%= render "layouts/header" %>
+    
+    
+    <% if (!@show_welcome.nil?)%>
+      <%= render "layouts/welcome" %>
+    <%end %>
+    <div class="container pt">
+    
+    <div class="row mt">
+
+      <%= yield %>  
+      </div>
+      <%= debug(params) if Rails.env.development? %>
+    </div>
+    <div id="footer">
+      <%= render "layouts/footer" %>
+    </div>
+  </body>
+</html>

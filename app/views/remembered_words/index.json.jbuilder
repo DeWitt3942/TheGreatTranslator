@@ -1,0 +1,1 @@
+json.array! @remembered_words, partial: 'remembered_words/remembered_word', as: :remembered_word

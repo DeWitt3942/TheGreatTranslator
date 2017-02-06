@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Remembered Words</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Word</th>
+      <th>User</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @remembered_words.each do |remembered_word| %>
+      <tr>
+        <td><%= remembered_word.word_id %></td>
+        <td><%= remembered_word.user_id %></td>
+        <% if admin? %>
+        <td><%= link_to 'Edit', edit_remembered_word_path(remembered_word) %></td>
+        <td><%= link_to 'Destroy', remembered_word, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <%  end %>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+<% if admin? %>
+<%= link_to 'New Remembered Word', new_remembered_word_path %>
+<% end %>

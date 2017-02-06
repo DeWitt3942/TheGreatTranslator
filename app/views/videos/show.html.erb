@@ -1,0 +1,43 @@
+
+
+<p id="notice"><%= notice %></p>
+<h2 class="centrate">  <%= @video.title %></h2>
+<hr>
+<div class="row">
+<div class="col-md-4">
+  <%= image_tag @video.image.url(:medium) %>  
+  <div class="centrate"><%= rating_for @video, "quality", enable_half: true, cancel: false, disable_after_rate: false %></div>
+</div>
+<div class="col-md-8">
+  <p><% if (@video.description)  %>
+  <%=@video.description %>
+  <% else %>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque aliquam, distinctio harum et libero autem, nihil laudantium sapiente alias perspiciatis iure ullam.
+  <% end%></p>
+    
+</div>
+
+</div>
+<br>
+<div class="row">
+<%= render "videos/player"%>
+</div>
+<!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
+ 
+
+
+
+<!-- Put this div tag to the place, where the Comments block will be -->
+<br>
+<% if admin? %>
+<%= link_to 'Edit', edit_video_path(@video) %> 
+<% if (!@video.video_set_id.nil?) %>
+|
+<%= link_to 'Unsign', unsign_video_path(@video) %>
+<%end %>
+
+
+
+
+
+<% end %>

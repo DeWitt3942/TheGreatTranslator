@@ -1,0 +1,21 @@
+
+<div class="player-wrapper">
+<video src="<%= @video.file.url %>" height="100%" class="player centrate" >
+  	<track kind="subtitles" src="<%= @video.sub.url %>" srclang="en" />
+</video>
+	
+</div>
+
+
+<span class="single-translation">
+	<span class="word-original"></span><br>
+  	<span class="word-general"></span><br>
+  	<span class="others"></span>
+</span>
+<script>
+	$(document).ready(subPlayer());
+
+
+	
+</script>
+

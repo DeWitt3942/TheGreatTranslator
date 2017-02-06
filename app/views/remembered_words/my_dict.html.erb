@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<h1>My personal dictionary</h1>
+<div class="table-rensponsive">
+<table class="table table-stripped">
+  <thead>
+    <tr>
+      <th>Word</th>
+      <th>Translation</th>
+      <th>Translations</th>
+      <% if !current_user.nil?%>
+  <% if current_user.admin? %>
+      <th colspan="2"></th>
+      <% end end %>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @words.each do |word| %>
+      <tr>
+        <td><%= word.word.word %></td>
+        <td><%= word.word.recomended_translation %></td>
+        <td><%= word.word.translations %></td>
+        
+    
+        <td><%= link_to 'Remove', word, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+</div>
+<br>
+
+

@@ -1,0 +1,353 @@
+<table border="0" cellspacing="0" cellpadding="0">
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2">disc</a> <img src="/gif/%5B.gif" width="9" height="16" align="absbottom"><img src="/gif/100.gif" width="9" align="absbottom" height="16"><img src="/gif/73.gif" width="5" align="absbottom" height="16"><img src="/gif/115.gif" width="7" align="absbottom" height="16"><img src="/gif/107.gif" width="9" align="absbottom" height="16"><img src="/gif/%5D.gif" width="9" height="16" align="absbottom"> <em>сущ.</em> <span style="color:gray">|<span style="color:black"> <a target="_blank" href="http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&amp;va=disc"><font size="2">Вебстер</font></a> <span style="color:gray">|<span style="color:black"> <a href="#phrases"><font size="2">фразы</font></a>
+</span></span></span></span>
+</td></tr>
+<tr>
+<td>  <a title="Общая лексика" href="m.exe?a=110&amp;t=761109_1_2&amp;sc=0"><i>общ.</i> </a>
+</td>
+<td> <a href="m.exe?t=761109_2_1&amp;s1=disc">круг</a>;  <a href="m.exe?t=194195_2_1&amp;s1=disc">патефонная пластинка</a>;  <a href="m.exe?t=761110_2_1&amp;s1=disc">диск луны</a>;  <a href="m.exe?t=761111_2_1&amp;s1=disc">диск солнца</a>;  <a href="m.exe?t=2109033_2_1&amp;s1=disc">грампластинка</a>;  <a href="m.exe?t=6245767_2_1&amp;s1=disc">диск</a><span style="color:gray"> (Note the convention to refer to magnetic as disk and optical as disc. This is not a law or rule but is followed by most in the industry. <a href="m.exe?a=116&amp;&amp;UserName=Alexander%20Demidov"><i>Alexander Demidov</i></a>)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a href="m.exe?a=110&amp;t=2621658_1_2&amp;sc=432"><i>общ.</i> </a>
+</td>
+<td> <a href="m.exe?t=2621658_2_1&amp;s1=disc">стальной диск</a><span style="color:gray"> (дисковых тормозов, в отличие от plate - пластины, т.е. металлокерамического диска)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Авиация" href="m.exe?a=110&amp;t=5619660_1_2&amp;sc=4"><i>авиа.</i> </a>
+</td>
+<td> <span style="color:gray">круглая<span style="color:black"> <a href="m.exe?t=5619660_2_1&amp;s1=disc">диафрагма</a></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Автомобильный термин" href="m.exe?a=110&amp;t=2156086_1_2&amp;sc=59"><i>авт.</i> </a>
+</td>
+<td> <a href="m.exe?t=2156086_2_1&amp;s1=disc">гильзовая заготовка</a>;  <a href="m.exe?t=2156087_2_1&amp;s1=disc">тарелка</a>;  <a href="m.exe?t=2156088_2_1&amp;s1=disc">шайба</a>;  <a href="m.exe?t=2156089_2_1&amp;s1=disc">шлиф</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Анатомия" href="m.exe?a=110&amp;t=3913567_1_2&amp;sc=39"><i>анат.</i> </a>
+</td>
+<td> <a href="m.exe?t=3913567_2_1&amp;s1=disc">межпозвоночный хрящ</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Атомная энергия" href="m.exe?a=110&amp;t=6675153_1_2&amp;sc=245"><i>АЭС</i> </a>
+</td>
+<td> <a href="m.exe?t=6675153_2_1&amp;s1=disc">таблетка</a><span style="color:gray"> (<a href="m.exe?a=116&amp;&amp;UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span style="color:black">;  <a href="m.exe?t=6675157_2_1&amp;s1=disc">топливная таблетка</a><span style="color:gray"> (<a href="m.exe?a=116&amp;&amp;UserName=MichaelBurov"><i>MichaelBurov</i></a>)<span style="color:black">;  <a href="m.exe?t=7136787_2_1&amp;s1=disc">подложка</a><span style="color:gray"> (<a href="m.exe?a=116&amp;&amp;UserName=Mudra_Iryna_123"><i>Mudra_Iryna_123</i></a>)<span style="color:black"></span></span></span></span></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Биология" href="m.exe?a=110&amp;t=3633054_1_2&amp;sc=3"><i>биол.</i> </a>
+</td>
+<td> <a href="m.exe?t=3633054_2_1&amp;s1=disc">донце луковицы</a>;  <a href="m.exe?t=3633055_2_1&amp;s1=disc">подпестичный диск</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Военный термин" href="m.exe?a=110&amp;t=2013568_1_2&amp;sc=24"><i>воен.</i> </a>
+</td>
+<td> <a href="m.exe?t=2013568_2_1&amp;s1=disc">district</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Вычислительная техника" href="m.exe?a=110&amp;t=859957_1_2&amp;sc=138"><i>вчт.</i> </a>
+</td>
+<td> <a href="m.exe?t=859957_2_1&amp;s1=disc">дисковое запоминающее устройство</a>;  <a href="m.exe?t=859958_2_1&amp;s1=disc">дисковое ЗУ</a>;  <a href="m.exe?t=3408245_2_1&amp;s1=disc">магнитный диск</a><span style="color:gray"> (памяти ЭВМ, тж. magnetic disc)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Генетика" href="m.exe?a=110&amp;t=4308210_1_2&amp;sc=144"><i>ген.</i> </a>
+</td>
+<td> <a href="m.exe?t=4308210_2_1&amp;s1=disc">бэнд</a><span style="color:gray"> (<a href="m.exe?a=116&amp;&amp;UserName=dimock"><i>dimock</i></a>)<span style="color:black">;  <a href="m.exe?t=4308211_2_1&amp;s1=disc">диск</a><span style="color:gray"> (группа гомологичных хромомер, расположенная попёрек группы эндоредуплицированных нитей ДНК в политенной хромосоме и имеющая дифференциальное сродство к красителю, что позволяет идентифицировать отдельные участки политенных хромосом; кроме того, термин "Б. " используется для обозначения поперечных полос на нормальных (неполитенных) хромосомах при различных типах дифференциального окрашивания, а также окрашенных зон, образующихся при электрофорезе <a href="m.exe?a=116&amp;&amp;UserName=dimock"><i>dimock</i></a>)<span style="color:black"></span></span></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Космонавтика" href="m.exe?a=110&amp;t=1451821_1_2&amp;sc=197"><i>косм.</i> </a>
+</td>
+<td> <a href="m.exe?t=1451821_2_1&amp;s1=disc">диафрагма</a>;  <a href="m.exe?t=1451822_2_1&amp;s1=disc">мембрана</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Медицина" href="m.exe?a=110&amp;t=4009666_1_2&amp;sc=8"><i>мед.</i> </a>
+</td>
+<td> <a href="m.exe?t=4009666_2_1">сепарационный</a> <span style="color:gray">шлифовальный<span style="color:black"> <a href="m.exe?t=4009666_2_1&amp;s1=disc">зубной диск</a></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Морской термин" href="m.exe?a=110&amp;t=5709478_1_2&amp;sc=7"><i>мор.</i> </a>
+</td>
+<td> <a href="m.exe?t=5709478_2_1&amp;s1=disc">тарелка</a><span style="color:gray"> (клапана)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Музыка" href="m.exe?a=110&amp;t=1813797_1_2&amp;sc=99"><i>муз.</i> </a>
+</td>
+<td> <a href="m.exe?t=1813797_2_1&amp;s1=disc">диск-жокей</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Нефть" href="m.exe?a=110&amp;t=4217221_1_2&amp;sc=141"><i>нефт.</i> </a>
+</td>
+<td> <a href="m.exe?t=4217221_2_1&amp;s1=disc">discovery</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Палеонтология" href="m.exe?a=110&amp;t=1054700_1_2&amp;sc=202"><i>палеонт.</i> </a>
+</td>
+<td> <a href="m.exe?t=1054700_2_1&amp;s1=disc">центральная часть тела, содержащая основные органы</a><span style="color:gray"> (у морских звёзд)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Полиграфия" href="m.exe?a=110&amp;t=3718286_1_2&amp;sc=104"><i>полигр.</i> </a>
+</td>
+<td> <a href="m.exe?t=3718286_2_1&amp;s1=disc">раскатной диск</a><span style="color:gray"> (тигельной машины)<span style="color:black">;  <a href="m.exe?t=3718287_2_1&amp;s1=disc">дисковый шрифтоноситель</a></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Прокат" href="m.exe?a=110&amp;t=6172449_1_2&amp;sc=398"><i>прок.</i> </a>
+</td>
+<td> <a href="m.exe?t=6172449_2_1&amp;s1=disc">гильза</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сельское хозяйство" href="m.exe?a=110&amp;t=3913564_1_2&amp;sc=30"><i>с.-х.</i> </a>
+</td>
+<td> <a href="m.exe?t=3913564_2_1&amp;s1=disc">дисковый нож</a>;  <a href="m.exe?t=3913565_2_1&amp;s1=disc">дисковое орудие</a>;  <a href="m.exe?t=3913566_2_1&amp;s1=disc">сосочек</a><span style="color:gray"> (зрительного нерва)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сокращение" href="m.exe?a=110&amp;t=2013569_1_2&amp;sc=120"><i>сокр.</i> </a>
+</td>
+<td> <a href="m.exe?t=2013569_2_1&amp;s1=disc">disconnect</a>;  <a href="m.exe?t=2013570_2_1&amp;s1=disc">discotheque</a>;  <a href="m.exe?t=2013571_2_1&amp;s1=disc">discount</a>;  <a href="m.exe?t=2013572_2_1&amp;s1=disc">discover</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Строительство" href="m.exe?a=110&amp;t=3711978_1_2&amp;sc=38"><i>стр.</i> </a>
+</td>
+<td> <a href="m.exe?t=3711978_2_1&amp;s1=disc">колесо</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Теплотехника" href="m.exe?a=110&amp;t=5539378_1_2&amp;sc=258"><i>тепл.</i> </a>
+</td>
+<td> <a href="m.exe?t=5539378_2_1&amp;s1=disc">тарелка клапана</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Техника" href="m.exe?a=110&amp;t=2322754_1_2&amp;sc=28"><i>тех.</i> </a>
+</td>
+<td> <a href="m.exe?t=2322754_2_1&amp;s1=disc">пластинка</a><span style="color:gray"> (граммофонная)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Электротехника" href="m.exe?a=110&amp;t=4036641_1_2&amp;sc=805"><i>эл.тех.</i> </a>
+</td>
+<td> <a href="m.exe?t=4036641_2_1&amp;s1=disc">тарелка</a><span style="color:gray"> (изолятора)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Машиностроение" href="m.exe?a=110&amp;t=4066799_1_2&amp;sc=243"><i>маш.</i> </a>
+</td>
+<td> <span style="color:gray">или disk<span style="color:black"> <a href="m.exe?t=4066799_2_1&amp;s1=disc">диск</a>;  <span style="color:gray">или disk<span style="color:black"> <a href="m.exe?t=4066800_2_1&amp;s1=disc">круг</a>;  <span style="color:gray">или disk<span style="color:black"> <a href="m.exe?t=4066801_2_1&amp;s1=disc">круглая шайба</a>;  <span style="color:gray">или disk<span style="color:black"> <a href="m.exe?t=4066802_2_1&amp;s1=disc">кружок</a>;  <span style="color:gray">или disk<span style="color:black"> <a href="m.exe?t=4066803_2_1&amp;s1=disc">тарелка</a></span></span></span></span></span></span></span></span></span></span>
+</td>
+</tr>
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2">disc.</a> <em>сущ.</em> <a href="#start"><font size="2">в начало</font></a>
+</td></tr>
+<tr>
+<td>  <a title="SAP финансы" href="m.exe?a=110&amp;t=3554896_1_2&amp;sc=666"><i>SAP.фин.</i> </a>
+</td>
+<td> <a href="m.exe?t=3554896_2_1&amp;s1=disc.">дисконт</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Вычислительная техника" href="m.exe?a=110&amp;t=2831099_1_2&amp;sc=138"><i>вчт.</i> </a>
+</td>
+<td> <a href="m.exe?t=2831099_2_1&amp;s1=disc.">disconnect</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Реклама" href="m.exe?a=110&amp;t=3854146_1_2&amp;sc=287"><i>рекл.</i> </a>
+</td>
+<td> <a href="m.exe?t=3854146_2_1&amp;s1=disc.">скидка</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сельское хозяйство" href="m.exe?a=110&amp;t=3901364_1_2&amp;sc=30"><i>с.-х.</i> </a>
+</td>
+<td> <a href="m.exe?t=3901364_2_1&amp;s1=disc.">discovered</a>
+</td>
+</tr>
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2"><span style='"color:gray"'>drill core<span style='"color:black"'> discs</span></span></a> <em>сущ.</em> <a href="#start"><font size="2">в начало</font></a>
+</td></tr>
+<tr>
+<td>  <a title="Геология" href="m.exe?a=110&amp;t=4976849_1_2&amp;sc=2"><i>геол.</i> </a>
+</td>
+<td> <a href="m.exe?t=4976849_2_1">плашки</a> <span style="color:gray">керна<span style="color:black"> <span style="color:gray"> (<a href="m.exe?a=116&amp;&amp;UserName=Igor%20Kravchenko-Berezhnoy"><i>Igor Kravchenko-Berezhnoy</i></a>)<span style="color:black"></span></span></span></span>
+</td>
+</tr>
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2">disc</a> <img src="/gif/%5B.gif" width="9" height="16" align="absbottom"><img src="/gif/100.gif" width="9" align="absbottom" height="16"><img src="/gif/73.gif" width="5" align="absbottom" height="16"><img src="/gif/115.gif" width="7" align="absbottom" height="16"><img src="/gif/107.gif" width="9" align="absbottom" height="16"><img src="/gif/%5D.gif" width="9" height="16" align="absbottom"> <em>гл.</em> <a href="#start"><font size="2">в начало</font></a>
+</td></tr>
+<tr>
+<td>  <a title="Общая лексика" href="m.exe?a=110&amp;t=194197_1_2&amp;sc=0"><i>общ.</i> </a>
+</td>
+<td> <a href="m.exe?t=194197_2_1&amp;s1=disc">придавать форму диска</a>;  <a href="m.exe?t=194198_2_1&amp;s1=disc">обрабатывать дисковым культиватором</a>;  <a href="m.exe?t=194196_2_1&amp;s1=disc">записывать на пластинку</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сельское хозяйство" href="m.exe?a=110&amp;t=3913568_1_2&amp;sc=30"><i>с.-х.</i> </a>
+</td>
+<td> <a href="m.exe?t=3913568_2_1&amp;s1=disc">дисковать</a>;  <a href="m.exe?t=3913569_2_1">обрабатывать</a> <span style="color:gray">почву<span style="color:black"> <a href="m.exe?t=3913569_2_1&amp;s1=disc">дисковыми орудиями</a></span></span>
+</td>
+</tr>
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2">disc</a> <img src="/gif/%5B.gif" width="9" height="16" align="absbottom"><img src="/gif/100.gif" width="9" align="absbottom" height="16"><img src="/gif/73.gif" width="5" align="absbottom" height="16"><img src="/gif/115.gif" width="7" align="absbottom" height="16"><img src="/gif/107.gif" width="9" align="absbottom" height="16"><img src="/gif/%5D.gif" width="9" height="16" align="absbottom"> <em>прил.</em> <a href="#start"><font size="2">в начало</font></a>
+</td></tr>
+<tr>
+<td>  <a title="Общая лексика" href="m.exe?a=110&amp;t=125792_1_2&amp;sc=0"><i>общ.</i> </a>
+</td>
+<td> <a href="m.exe?t=125792_2_1&amp;s1=disc">дисковый</a>;  <a href="m.exe?t=125793_2_1&amp;s1=disc">дискообразный</a>
+</td>
+</tr>
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2">DISC</a> <img src="/gif/%5B.gif" width="9" height="16" align="absbottom"><img src="/gif/100.gif" width="9" align="absbottom" height="16"><img src="/gif/73.gif" width="5" align="absbottom" height="16"><img src="/gif/115.gif" width="7" align="absbottom" height="16"><img src="/gif/107.gif" width="9" align="absbottom" height="16"><img src="/gif/%5D.gif" width="9" height="16" align="absbottom"> <em>сокр.</em> <a href="#start"><font size="2">в начало</font></a>
+</td></tr>
+<tr>
+<td>  <a title="Автоматика" href="m.exe?a=110&amp;t=3410356_1_2&amp;sc=371"><i>автом.</i> </a>
+</td>
+<td> <a href="m.exe?t=3410356_2_1&amp;s1=DISC">digital integrated servo control</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Деловая лексика" href="m.exe?a=110&amp;t=4396330_1_2&amp;sc=291"><i>бизн.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396330_2_1&amp;s1=DISC">Decision Information System For Citrus</a>;  <a href="m.exe?t=4396331_2_1&amp;s1=DISC">Dominance Influence Steadiness And Compliance</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Бухгалтерия" href="m.exe?a=110&amp;t=1696822_1_2&amp;sc=52"><i>бухг.</i> </a>
+</td>
+<td> <a href="m.exe?t=1696822_2_1&amp;s1=DISC">национальная экспортная компания</a><span style="color:gray"> (domestic international sales corporation)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Бухгалтерия" href="m.exe?a=110&amp;t=4396334_1_2&amp;sc=52"><i>бухг.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396334_2_1&amp;s1=DISC">Domestic International Sales Corporation</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Военный термин" href="m.exe?a=110&amp;t=1966751_1_2&amp;sc=24"><i>воен.</i> </a>
+</td>
+<td> <a href="m.exe?t=1966751_2_1&amp;s1=DISC">Defense Industrial Supply Center</a>;  <a href="m.exe?t=1966752_2_1&amp;s1=DISC">Director of Information Service Control</a>;  <a href="m.exe?t=1966753_2_1&amp;s1=DISC">District Information Service Control</a>;  <a href="m.exe?t=1966754_2_1&amp;s1=DISC">daily intelligence summary cable</a>;  <a href="m.exe?t=4396324_2_1&amp;s1=DISC">Developing In Service Course</a>;  <a href="m.exe?t=4396325_2_1&amp;s1=DISC">Demonstrators For Integrated Ship Control</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Вычислительная техника" href="m.exe?a=110&amp;t=4500586_1_2&amp;sc=138"><i>вчт.</i> </a>
+</td>
+<td> <a href="m.exe?t=4500586_2_1&amp;s1=DISC">Defense Information System Council</a><span style="color:gray"> (Mil., USA)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Должность" href="m.exe?a=110&amp;t=4396326_1_2&amp;sc=873"><i>должн.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396326_2_1&amp;s1=DISC">Digital Information Science And Communication</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Медицина" href="m.exe?a=110&amp;t=4667904_1_2&amp;sc=8"><i>мед.</i> </a>
+</td>
+<td> <a href="m.exe?t=4667904_2_1&amp;s1=DISC">Индуцирующий смерть сигнальный комплекс</a><span style="color:gray"> (Death-inducing signaling complex <a href="m.exe?a=116&amp;&amp;UserName=Ruslan%20Kushnir"><i>Ruslan Kushnir</i></a>)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Международная торговля" href="m.exe?a=110&amp;t=4396332_1_2&amp;sc=887"><i>междун.торг.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396332_2_1&amp;s1=DISC">Domestic Industrial Sales Corporation</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Молекулярная биология" href="m.exe?a=110&amp;t=6811239_1_2&amp;sc=843"><i>мол.биол.</i> </a>
+</td>
+<td> <a href="m.exe?t=6811239_2_1&amp;s1=DISC">death-inducing signaling complex</a><span style="color:gray"> (сигнальный комплекс, индуцирующий смерть клетки <a href="m.exe?a=116&amp;&amp;UserName=kat_j"><i>kat_j</i></a>)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Нефть" href="m.exe?a=110&amp;t=4212575_1_2&amp;sc=141"><i>нефт.</i> </a>
+</td>
+<td> <a href="m.exe?t=4212575_2_1&amp;s1=DISC">discovery well</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сетевые технологии" href="m.exe?a=110&amp;t=4396329_1_2&amp;sc=339"><i>сеть.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396329_2_1&amp;s1=DISC">Data Information Systems And Communications</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сокращение" href="m.exe?a=110&amp;t=2025020_1_2&amp;sc=120"><i>сокр., джейн.</i> </a>
+</td>
+<td> <a href="m.exe?t=2025020_2_1&amp;s1=DISC">Defense Industrial Support Center</a><span style="color:gray"> (USA)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сокращение" href="m.exe?a=110&amp;t=4102016_1_2&amp;sc=120"><i>сокр.</i> </a>
+</td>
+<td> <a href="m.exe?t=4102016_2_1&amp;s1=DISC">oil-insulated self-cooled</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Техника" href="m.exe?a=110&amp;t=5167956_1_2&amp;sc=28"><i>тех.</i> </a>
+</td>
+<td> <a href="m.exe?t=5167956_2_1&amp;s1=DISC">data information system for management and control</a>;  <a href="m.exe?t=5167957_2_1&amp;s1=DISC">digital simulation computer system</a>;  <a href="m.exe?t=5167958_2_1&amp;s1=DISC">disconnection</a>;  <a href="m.exe?t=5167959_2_1&amp;s1=DISC">discontinue</a>;  <a href="m.exe?t=5167960_2_1&amp;s1=DISC">discrete</a>;  <a href="m.exe?t=5167961_2_1&amp;s1=DISC">discrimination</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Университет" href="m.exe?a=110&amp;t=4396327_1_2&amp;sc=124"><i>унив.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396327_2_1&amp;s1=DISC">Drop In Study Centre</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Физиология" href="m.exe?a=110&amp;t=4396323_1_2&amp;sc=126"><i>физиол.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396323_2_1&amp;s1=DISC">Discharge</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Фирменный знак" href="m.exe?a=110&amp;t=4396333_1_2&amp;sc=260"><i>фирм.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396333_2_1&amp;s1=DISC">Directory Of International Studios And Control</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Хобби" href="m.exe?a=110&amp;t=4396328_1_2&amp;sc=880"><i>хобби.</i> </a>
+</td>
+<td> <a href="m.exe?t=4396328_2_1&amp;s1=DISC">Digital Interactive Sports Card</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Юридический термин" href="m.exe?a=110&amp;t=4770281_1_2&amp;sc=48"><i>юр.</i> </a>
+</td>
+<td> <a href="m.exe?t=4770281_2_1&amp;s1=DISC">Объединение по вопросам выплаты денежного пособия нетрудоспособным лицам</a><span style="color:gray"> (Disability Income Support Coalition <a href="m.exe?a=116&amp;&amp;UserName=Ardath"><i>Ardath</i></a>)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr><td bgcolor="#DBDBDB" colspan="2" width="700"> <a href="m.exe?a=118&amp;t=761109_1_2">DISC4</a> <em>сокр.</em> <a href="#start"><font size="2">в начало</font></a>
+</td></tr>
+<tr>
+<td>  <a title="Военный термин" href="m.exe?a=110&amp;t=4337392_1_2&amp;sc=24"><i>воен.</i> </a>
+</td>
+<td> <a href="m.exe?t=4337392_2_1&amp;s1=DISC4">Director of Information Systems Command, Control, Communications and Computers</a>
+</td>
+</tr>
+<tr>
+<td>  <a title="Сокращение" href="m.exe?a=110&amp;t=2025021_1_2&amp;sc=120"><i>сокр., джейн.</i> </a>
+</td>
+<td> <a href="m.exe?t=2025021_2_1&amp;s1=DISC4">Director of Information Systems for C4</a><span style="color:gray"> (USA)<span style="color:black"></span></span>
+</td>
+</tr>
+<tr>
+<td>  <a title="Химическое оружие" href="m.exe?a=110&amp;t=2730494_1_2&amp;sc=448"><i>хим.оруж.</i> </a>
+</td>
+<td> <a href="m.exe?t=2730494_2_1&amp;s1=DISC4">Director of Information Systems for Command, Control, Communications, and Computers</a>
+</td>
+</tr>
+</table>
