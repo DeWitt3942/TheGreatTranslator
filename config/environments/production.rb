@@ -11,7 +11,7 @@ Rails.application.configure do
   config.eager_load = true
 
   # Full error reports are disabled and caching is turned on.
-  config.consider_all_requests_local       = false
+  config.consider_all_requests_local       = true
   config.action_controller.perform_caching = true
 
   # Disable serving static files from the `/public` folder by default since
@@ -88,5 +88,6 @@ Rails.application.configure do
 #  config.assets.precompile =  ['*.js', '*.css', '*.css.erb'] 
   config.assets.precompile += %w( video-js.swf vjs.eot vjs.svg vjs.ttf vjs.woff )
 
-config.serve_static_files = true
+  config.serve_static_files = true
+  config.public_file_server.enabled = true
 end
